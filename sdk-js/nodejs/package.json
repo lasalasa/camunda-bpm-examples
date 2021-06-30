@@ -4,6 +4,6 @@
   "dependencies": {
     "camunda-bpm-webapp": "git://github.com/camunda/camunda-bpm-webapp#7.14.0",
     "cli-table": "^0.3.1",
-    "inquirer": "^0.8.0"
+    "inquirer": "^0.12.0"
   }
 }
